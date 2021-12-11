@@ -10,21 +10,20 @@
 
 <p align="center"><img  src="méthode de dichotomie.png"/></p>.
 
-###Avantages de la méthode de la dichotomie :
+> + Avantages de la méthode de la dichotomie :
 
-*simple
+-simple
 
-*vitesse de convergence constante
+-vitesse de convergence constante
 
-*On peut calculer nombre d'itérations facilement si on connait epsilon.
+- On peut calculer nombre d'itérations facilement si on connait epsilon.
 
-*L’erreur dans la methode de la dichotomie ne depend pas de f.
+- L’erreur dans la methode de la dichotomie ne depend pas de f.
+> + Inconvénients de la méthode de la dichotomie :
 
-###Inconvénients de la méthode de la dichotomie :
+- lente
 
-*lente
+- nécessite f (a) × f (b) < 0
 
-*nécessite f (a) × f (b) < 0
-
-*nécessite la continuité
+- nécessite la continuité
 
