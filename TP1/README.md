@@ -49,6 +49,13 @@ suite doit etre choisi suffisamment proche de α pour que la méthode converge.
       -La méthode de newton est une cas particulier de la méthode de point fixe.
 <p align="center"><img  src="Methode_newton.png"/></p>.
 
+> + 1) Avantages de la methode de newton 
+
+     -L'avantage majeur de la méthode de Newton par rapport à une méthode de point fixe par exemple est sa vitesse de convergence d'ordre 2.
+> + 2) Inconvénients de la methode de newton :
+
+     -Dépend de la fonction f et son dérivé.
+
 
 
 
