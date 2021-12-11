@@ -25,4 +25,10 @@
     - nécessite la continuité
     
 ## Méthode du point fixe 
+>La méthode du point fixe appliquée à la résolutions d’équations non linéaires
+consiste à élaborer un schéma itératif, en l’occurence une suite convergente vers un point fixe x d’une certaine application g, ce point fixe est en l’occurence
+la solution de l’équation f(x)=0.
+
+L’objectif ce méthode est la résolution d’équation du type :
+
 
