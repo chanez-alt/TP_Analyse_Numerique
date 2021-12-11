@@ -30,8 +30,8 @@ consiste à élaborer un schéma itératif, en l’occurence une suite convergen
 la solution de l’équation f(x)=0.
 L’objectif ce méthode est la résolution d’équation du type :
 <p float="left">
-  <img src="méthodepointfixe.PNG" width="100" />
-  <img src="Fixed_point_example.PNG" width="100" /> 
+  <img src="méthodepointfixe.PNG" width="500" />
+  <img src="Fixed_point_example.PNG" width="500" /> 
 </p>
 
 
