@@ -17,7 +17,7 @@
     -vitesse de convergence constante
     -On peut calculer nombre d'itérations facilement si on connait epsilon.
     -L’erreur dans la methode de la dichotomie ne depend pas de f.
-- 
+
 > + 2) Inconvénients de la méthode de la dichotomie :
 
     - lente
