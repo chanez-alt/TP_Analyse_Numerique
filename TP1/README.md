@@ -29,6 +29,6 @@
 consiste à élaborer un schéma itératif, en l’occurence une suite convergente vers un point fixe x d’une certaine application g, ce point fixe est en l’occurence
 la solution de l’équation f(x)=0.
 L’objectif ce méthode est la résolution d’équation du type :
-<p align="center"><img  src="méthodepointfixe.png"/></p>.
+<p align="center"><img  src="méthodepointfixe.PNG"/></p>.
 
 
