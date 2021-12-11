@@ -2,6 +2,7 @@
 # Sommaire :
  - [Introduction](#introduction)
  - [Méthode dichotomie](#méthode-dichotomie)
+ - [Méthode du point fixe](#Méthode-du-point-fixe)
 
 ## Introduction 
 > Dans ce TP on va étudier des différents méthodes des résolutions d'une équation non linéaire.
@@ -22,4 +23,6 @@
     - lente
     - nécessite f (a) × f (b) < 0
     - nécessite la continuité
+    
+## Méthode du point fixe 
 
