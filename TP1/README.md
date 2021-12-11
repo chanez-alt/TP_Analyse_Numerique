@@ -1,8 +1,8 @@
 # Résolution d'une équation non linéaire
 # Sommaire :
- - [Introduction générale](#introduction générale)
+ - [Introduction](#introduction)
  - 
 
-## Introduction générale
+## Introduction 
 > Dans ce TP on va étudier méthodes des résolutions d'une équation non linéaire
 
