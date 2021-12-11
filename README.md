@@ -7,6 +7,7 @@
 - [TP1][TP1]
 - [TP2][TP2]
 - [TP3][TP3]
+- [conclusion][conclusion]
 
 
 
@@ -32,3 +33,6 @@
 [TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
 
 [clb]:https://colab.research.google.com/notebooks/intro.ipynb
+[conclusion]:ce répertoire contient les différents TP d'analyse numérique *Résolution d'une équation non linéaire *Interpolation polynomiale *intégration numérique
+
+
