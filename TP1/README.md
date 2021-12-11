@@ -4,4 +4,5 @@
  - 
 
 ## Introduction générale
+> Dans ce TP on va étudier méthodes des résolutions d'une équation non linéaire
 
