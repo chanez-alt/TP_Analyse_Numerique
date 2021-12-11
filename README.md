@@ -26,7 +26,7 @@
 > + On  a ajoute le kernel d'octave/Matlab à jupyter notebook
 > + On a utilise google colab et octave-online 
 ## Conclusion
->ce différents TP d'analyse numérique nous permet d'apprendre:
+>Ce différents TP d'analyse numérique nous permet d'apprendre:
 > + Résolution d'une équation non linéaire
 > + Interpolation polynomiale
 > + Intégration numérique
