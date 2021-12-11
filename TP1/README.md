@@ -33,9 +33,10 @@ L’objectif ce méthode est la résolution d’équation du type :
   <img src="méthodepointfixe.PNG" width="250" />
   <img src="Fixed_point_example.PNG" width="250" /> 
 </p>
-> +1) Avantages de la méthode point fixe : 
+
+> + 1) Avantages de la méthode point fixe : 
     -Ne demande pas le calcule de f'.
-> +2) Inconvénients de la méthode point fixe :
+> + 2) Inconvénients de la méthode point fixe :
     -Choix de g de manière algébrique
 
 
