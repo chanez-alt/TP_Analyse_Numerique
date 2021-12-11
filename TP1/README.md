@@ -3,6 +3,7 @@
  - [Introduction](#introduction)
  - [Méthode dichotomie](#méthode-dichotomie)
  - [Méthode du point fixe](#Méthode-du-point-fixe)
+ - [Méthode de Newton](#Méthode-de-Newton)
 
 ## Introduction 
 > Dans ce TP on va étudier des différents méthodes des résolutions d'une équation non linéaire.
@@ -40,5 +41,15 @@ L’objectif ce méthode est la résolution d’équation du type :
 > + 2) Inconvénients de la méthode point fixe :
 
     -Choix de g de manière algébrique
+## Méthode de Newton
+> La méthode de Newton est basée sur la construction d’une suite (xn) qui converge vers un zéro
+α d’une fonction continue f : [a, b] → R. Nous allons voir que le point initial x0 ∈ [a, b] de cette
+suite doit etre choisi suffisamment proche de α pour que la méthode converge.
+      
+      -La méthode de newton est une cas particulier de la méthode de point fixe.
+<p align="center"><img  src="Methode_newton.png"/></p>.
+
+
+
 
 
