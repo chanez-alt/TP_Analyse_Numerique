@@ -8,8 +8,9 @@
 ## Méthode dichotomie
 > La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une fonction qui consiste à répéter des partages d’un intervalle en deux parties puis à sélectionner le sous-intervalle dans lequel existe un zéro de la fonction.
 
-<p align="center"><img  src="méthode de dichotomie.png"/></p>
-### Avantages de la méthode de la dichotomie :
+<p align="center"><img  src="méthode de dichotomie.png"/></p>.
+
+###Avantages de la méthode de la dichotomie :
 
 *simple
 
@@ -19,7 +20,7 @@
 
 *L’erreur dans la methode de la dichotomie ne depend pas de f.
 
-### Inconvénients de la méthode de la dichotomie :
+###Inconvénients de la méthode de la dichotomie :
 
 *lente
 
