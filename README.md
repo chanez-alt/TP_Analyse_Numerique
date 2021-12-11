@@ -7,7 +7,8 @@
 - [TP1][TP1]
 - [TP2][TP2]
 - [TP3][TP3]
-- [conclusion][conclusion]
+- [conclusion](#conclusion)
+
 
 
 
@@ -24,6 +25,13 @@
 > + On a installe Anaconda et Octave en local
 > + On  a ajoute le kernel d'octave/Matlab à jupyter notebook
 > + On a utilise google colab et octave-online 
+## Conclusion
+>ce différents TP d'analyse numérique nous permet d'apprendre:
+*Résolution d'une équation non linéaire
+*Interpolation polynomiale
+*intégration numérique
+
+
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
@@ -33,6 +41,5 @@
 [TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
 
 [clb]:https://colab.research.google.com/notebooks/intro.ipynb
-[conclusion]:ce répertoire contient les différents TP d'analyse numérique *Résolution d'une équation non linéaire *Interpolation polynomiale *intégration numérique
 
 
