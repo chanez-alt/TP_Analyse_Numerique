@@ -59,7 +59,8 @@ suite doit etre choisi suffisamment proche de α pour que la méthode converge.
      -Dépend de la fonction f et son dérivé.
 ## Comparaison
 
-> (a) Pour comparer les algorithmes, il est important de tenir compte de la présence ou non des facteurs suivants :
+>
+(a) Pour comparer les algorithmes, il est important de tenir compte de la présence ou non des facteurs suivants :
 
 assurer de la convergence ainsi que la vitesse
 
