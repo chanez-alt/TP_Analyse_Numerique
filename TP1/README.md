@@ -8,5 +8,5 @@
 ## Méthode dichotomie
 > La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une fonction qui consiste à répéter des partages d’un intervalle en deux parties puis à sélectionner le sous-intervalle dans lequel existe un zéro de la fonction.
 
-<img align="center" src="méthode de dichotomie.png"/>.
+<img  src="méthode de dichotomie.png"align="center"/>.
 
