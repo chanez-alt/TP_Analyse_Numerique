@@ -13,6 +13,8 @@
 
 >L’unique polynôme vérifiant le systéme précedent, appelé le polynôme d’interpolation de Lagrange, s’écrit sous la forme suivante :
 <p align="center"><img  src="Formule de Lagrange.PNG"/></p>
+On a les propriètés suivantes :
+
 
 
 
