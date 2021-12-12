@@ -16,6 +16,8 @@
 On a les propriètés suivantes :
 <p align="center"><img  src=imagelagrange.PNG/></p>
 - Li (x) est un polynôme de degré égal (exactement) à N.
+> + Exemple :
+Utiliser cette fonction pour dessiner le graph du polynôme de Lagrange  de la fonction $f(x) = \dfrac{1}{1 + x^2}$ aux points $x=[-1:0.1:1]$.
 
 ## Formule de Newton
 ## Conclusion
