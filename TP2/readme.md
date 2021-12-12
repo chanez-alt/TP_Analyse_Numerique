@@ -33,5 +33,11 @@ L'application de la formule de lagrange :
 ## Formule de Newton
 > l’alternative de Newton (ou méthode des différences divisées). Cette méthode ne diffère de l’interpolation lagrangienne que par la façon dont le polynôme est calculé, le polynôme d’interpolation qui en résulte est le même. Pour cette raison, on parle aussi plutôt de la forme de Newton du polynôme de Lagrange. Le polynôme d’interpolation de Newton associé à la fonction f aux noeuds x0, x1, · · · , xN s’écrit comme suit :
 <p align="center"><img  src=formulenewton.PNG/></p>
+L'application de la formule de Newton : 
+<p float="left">
+  <img src=tableaunewton.PNG width="250" />
+  <img src=grapheformulenewton.PNG width="250" /> 
+</p>
 
 ## Conclusion
+> En analyse numérique (et dans son application algorithmique discrète pour le calcul numérique), l'interpolation est une opération mathématique permettant de remplacer une courbe ou une fonction par une autre courbe (ou fonction) plus simple, mais qui coïncide avec la première en un nombre fini de points (ou de valeurs) donnés au départ. Suivant le type d'interpolation, outre le fait de coïncider en un nombre fini de points ou de valeurs, il peut aussi être demandé à la courbe ou à la fonction construite de vérifier des propriétés supplémentaires. Le choix des points (ou valeurs) de départ est un élément important dans l'intérêt de la construction.
