@@ -23,10 +23,12 @@ La répresentation graphique de la fonction :
 <p align="center"><img  src=imagelagrange2.PNG/></p>
 L'application de la formule de lagrange : 
 <p align="center"><img  src=imagelagrange3.PNG/></p>
+
 > * Interpolation Equidistante :
-<p align="center"><img  src=Interpolationequidistante.PNG/></p>
+<p align="center"><img  src=interpolationequidistance.PNG/></p>
+
 > * Interpolation Tchebycheff: 
-<p align="center"><img  src=Interpolationtchebycheff.PNG/></p>
+<p align="center"><img  src=interpolaationtchebycheff.PNG/></p>
 
 
 
