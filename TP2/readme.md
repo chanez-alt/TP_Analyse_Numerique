@@ -16,7 +16,10 @@
 On a les propriètés suivantes :
 <p align="center"><img  src=imagelagrange.PNG/></p>
 - Li (x) est un polynôme de degré égal (exactement) à N.
-> + Exemple :
+
+> *  Exemple :
+La fonction : <p align="center"><img  src="fonction.PNG"/></p>
+
 
 ## Formule de Newton
 ## Conclusion
