@@ -9,9 +9,18 @@
 <p align="center"><img  src="interpolation.PNG"/></p>
 
     -Il existe un unique polynome p vérifiant le systéme précedent.
-
-
-
 ## Formule de Lagrange
+
+>L’unique polynôme vérifiant le systéme précedent, appelé le polynôme d’interpolation de Lagrange, s’écrit sous la forme suivante :
+
+p(x) =Σf (xi )Li (x) = f (x0)L0(x)+f (x1)L1(x)+· · ·+f (xN)LN(x),
+avec
+
+$L_{i}(x)=\displaystyle\frac{(x-x_1)(x-x_2)\ldots(x-x_{i-1})(x-x_{i+1})\ldots(x_0-x_{n})}{(x_i-x_0)(x_i-x_1)\ldots(x_i-x_{i-1})(x_i-x_{i+1})\ldots(x_i-x_{n})}$ pour $i\in \{1,\ldots,n\}$
+
+On a les propriètés suivantes :
+
+- Li (x) est un polynôme de degré égal (exactement) à N.
+![image.png](attachment:image.png)
 ## Formule de Newton
 ## Conclusion
