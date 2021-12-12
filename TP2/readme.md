@@ -30,7 +30,7 @@ L'application de la formule de lagrange :
 > * Interpolation Tchebycheff: 
 <p align="center"><img  src=interpolaationtchebycheff.PNG/></p>
 
-
-
 ## Formule de Newton
+> l’alternative de Newton (ou méthode des différences divisées). Cette méthode ne diffère de l’interpolation lagrangienne que par la façon dont le polynôme est calculé, le polynôme d’interpolation qui en résulte est le même. Pour cette raison, on parle aussi plutôt de la forme de Newton du polynôme de Lagrange. Le polynôme d’interpolation de Newton associé à la fonction f aux noeuds x0, x1, · · · , xN s’écrit comme suit :
+![image.png](attachment:image.png)
 ## Conclusion
