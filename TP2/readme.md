@@ -13,11 +13,9 @@
 
 >L’unique polynôme vérifiant le systéme précedent, appelé le polynôme d’interpolation de Lagrange, s’écrit sous la forme suivante :
 
-p(x) =Σf (xi )Li (x) = f (x0)L0(x)+f (x1)L1(x)+· · ·+f (xN)LN(x),
-avec
 
 
 - Li (x) est un polynôme de degré égal (exactement) à N.
-![image.png](attachment:image.png)
+
 ## Formule de Newton
 ## Conclusion
