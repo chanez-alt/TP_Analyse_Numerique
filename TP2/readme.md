@@ -18,8 +18,11 @@ On a les propriètés suivantes :
 - Li (x) est un polynôme de degré égal (exactement) à N.
 
 > *  Exemple :
-La fonction : <p align="center"><img  src="fonction.PNG"/></p>
-
+ <p align="center"><img  src="fonction.PNG"/></p>
+La répresentation graphique de la fonction :
+<p align="center"><img  src=imagelagrange2.PNG/></p>
+l'application de la formule de lagrange : 
+<p align="center"><img  src=imagelagrange3.PNG/></p>
 
 ## Formule de Newton
 ## Conclusion
