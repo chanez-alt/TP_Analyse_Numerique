@@ -38,7 +38,7 @@
 [oct]: https://www.gnu.org/software/octave/index
 [TP1]: https://github.com/chanez-alt/TP_Analyse_Numerique/tree/main/TP1
 [TP2]: https://github.com/chanez-alt/TP_Analyse_Numerique/tree/main/TP2
-[TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
+[TP3]: https://github.com/chanez-alt/TP_Analyse_Numerique/tree/main/TP3
 
 [clb]:https://colab.research.google.com/notebooks/intro.ipynb
 
