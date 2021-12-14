@@ -17,4 +17,5 @@ donnée.
 Notons k l’indice des n sous-intervalles, h = (b − a)/n la longueur de chacun d’eux, xk = a + kh la borne inférieure et
 mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelques formules composites :
 - Méthode des réctangles :
-<img src="image1.PNG"/>
+<p align="center"><img src="image1.PNG"/></p>
+
