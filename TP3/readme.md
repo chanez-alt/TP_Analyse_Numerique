@@ -37,4 +37,5 @@ mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelqu
 la méthode des rectangles à gauche : on approche  par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
 
 <p align="center"><img src="image6.png"/></p>
+<p align="center"><img src="demorectangle.gif"/></p>
 
