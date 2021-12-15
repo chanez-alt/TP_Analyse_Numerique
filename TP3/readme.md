@@ -44,5 +44,8 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 > la méthode du point milieu : 
 <p align="center"><img src="image8.png"/></p>
 <p align="center"><img src=demopointmilieu.gif/></p>
+   
+    -simulation de ces deux méthodes :
+<p align="center"><img src=comparision.gif/></p>
 
 
