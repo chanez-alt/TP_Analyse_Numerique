@@ -23,4 +23,4 @@ mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelqu
 - Méthode des trapèzes :
 <p align="center"><img src="image3.PNG"/></p>
 - Méthode de Simpson :
--<p align="center"><img src="image4.PNG"/></p>
+<p align="center"><img src="image4.PNG"/></p>
