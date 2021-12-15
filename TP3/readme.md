@@ -27,5 +27,6 @@ mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelqu
 
 - Méthode de Simpson :
 <p align="center"><img src="image4.PNG"/></p>
+
 > soit les 4 fonctions suivantes :
 <p align="center"><img src="image5.PNG"/></p>
