@@ -39,6 +39,7 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 <p align="center"><img src="image6.png"/></p>
 <p align="center"><img src="demorectangle1.gif"/></p>
 ##  Méthode du point milieu
+
 > la méthode du point milieu : 
 <p align="center"><img src="image8.png"/></p>
 
