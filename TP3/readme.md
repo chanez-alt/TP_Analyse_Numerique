@@ -63,7 +63,7 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 
 >La méthode de Simpson consiste à grouper trois points consécutifs de la courbe Mi, Mi+1 et Mi+2 et de remplacer l'arc de courbe passant par ces trois points par un arc de parabole. Notons que si les points Mi, Mi+1 et Mi+2 sont alignés, le calcul des paramètres de la parabole d'équation y = mx2 + px + q, passant par ces points conduira à m = 0. Par suite, quitte à parler de parabole dégénérée, ce cas n'est pas singulier.
 
-<p align="center"><img src="image10.PNG"/></p>
+<p align="center"><img src="image10.png"/></p>
 
 
 
