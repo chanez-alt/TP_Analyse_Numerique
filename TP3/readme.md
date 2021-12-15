@@ -54,4 +54,5 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 
 >La méthode des trapèzes, étudiée ici, remplace tout arc de courbe correspondant à [xi,xi+1] par le segment [MiMi+1], donc l'aire sous la courbe, par « trapèze » xi Mi Mi+1 xi+1 au lieu du « rectangle » xi Mi Ni+1 xi+1 (figure de droite ci-dessus).
 
+<p align="center"><img src=méthodetrapèzes.gif/></p>
 
