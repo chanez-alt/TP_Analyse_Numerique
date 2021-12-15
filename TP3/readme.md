@@ -32,3 +32,8 @@ mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelqu
 <p align="center"><img src="image5.PNG"/></p>
            
     - Le but de ceTP est de comparer ces 4 méthode d’intégrations numériques.
+## Méthode des rectangles à gauche :
+> La plupart des méthodes d'intégration numérique fonctionnent sur le même principe. On commence par couper le gros intervalle [a,b] en N plus petits intervalles [ai,ai+1], avec a1=a et aN+1=b. Puis, pour chaque intervalle [ai,ai+1], on essaie d'approcher . Les moyens les plus simples sont :
+la méthode des rectangles à gauche : on approche  par . Géométriquement, cela signifie qu'on approche l'intégrale de f par l'aire des rectangles hachurés en vert :
+
+<p align="center"> <img src="image6.PNG"/></p>
