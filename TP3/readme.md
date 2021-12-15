@@ -59,6 +59,7 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
       -    -simulation de ces trois méthodes :
  <p align="center"><img src=comparison3méthodes.gif/></p>
 
+## Méthode de Simpson :
 
 
 
