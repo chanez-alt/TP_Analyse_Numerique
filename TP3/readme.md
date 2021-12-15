@@ -18,9 +18,12 @@ Notons k l’indice des n sous-intervalles, h = (b − a)/n la longueur de chacu
 mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelques formules composites :
 - Méthode des réctangles :
 <p align="center"><img src="image1.PNG"/></p>
+
 - Méthode du point milieu :
 <p align="center"><img src="image2.PNG"/></p>
+
 - Méthode des trapèzes :
 <p align="center"><img src="image3.PNG"/></p>
+
 - Méthode de Simpson :
 <p align="center"><img src="image4.PNG"/></p>
