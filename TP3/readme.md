@@ -50,7 +50,7 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 ##  Méthode des trapèzes : 
 
 >La méthode d'intégration approchée, dite des trapèzes, décrite ci-après, introduite par Newton & Cotes est plus précise que la méthode élémentaire, dite des rectangles, correspondant aux sommes de Cauchy-Riemann, consistant à remplacer la fonction initiale par une approximation en escalier. Graphiquement, sur l'intervalle [xi, xi+1], on remplace l'arc de courbe par le segment [MiNi+1], donc l'aire sous la courbe, par le « rectangle » xi Mi Ni+1 xi+1 (figure de gauche) :
-<p align="center"><img src="image9.JPG"/><p>
+<p align="center"><img src="image9.png"/><p>
 
 >La méthode des trapèzes, étudiée ici, remplace tout arc de courbe correspondant à [xi,xi+1] par le segment [MiMi+1], donc l'aire sous la courbe, par « trapèze » xi Mi Mi+1 xi+1 au lieu du « rectangle » xi Mi Ni+1 xi+1 (figure de droite ci-dessus).
 
