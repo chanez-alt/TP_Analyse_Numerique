@@ -30,3 +30,4 @@ mk = a + (k + 1/2)h le point milieu, ceci pour k entre 0 et n − 1.Voici quelqu
 
 > soit les 4 fonctions suivantes :
 <p align="center"><img src="image5.PNG"/></p>
+> * Le but de ceTP est de comparer ces 4 méthode d’intégrations numériques.
