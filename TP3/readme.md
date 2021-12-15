@@ -46,6 +46,6 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 <p align="center"><img src=demopointmilieu.gif/></p>
    
     -simulation de ces deux méthodes :
-<p align="center"><img src=comparision.gif/></p>
+<p align="center"><img src=comparison.gif/></p>
 
 
