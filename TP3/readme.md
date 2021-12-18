@@ -69,6 +69,9 @@ la méthode des rectangles à gauche : on approche  par . Géométriquement, cel
 
 <p align="center"><img src=quatremethodes.gif/></p>
 
+## Conclusion 
+Plus que le nombre de subdivisions augmente, les valeurs sont plus proches des valeurs exactes.
+
 
 
 
